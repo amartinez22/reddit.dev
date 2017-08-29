@@ -4,11 +4,10 @@
 @stop
 
 @section('content')
-
 <!DOCTYPE html>
 <html>
     <head>
-        <title>503 Error</title>
+        <title>404 Error.</title>
 
         <style>
             html, body {
@@ -19,7 +18,6 @@
                 margin: 0;
                 padding: 0;
                 width: 100%;
-                color: #B0BEC5;
                 font-weight: 100;
             }
 
@@ -43,7 +41,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Be right back.</div>
+                <div class="title">Page Not Found: 404 Error</div>
             </div>
         </div>
     </body>
